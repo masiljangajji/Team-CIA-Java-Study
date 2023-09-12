@@ -1,0 +1,44 @@
+= NHNAcademy4th-CIA
+Firstname Lastname <author@asciidoctor.org>
+3.0, July 29, 2022: AsciiDoc article template
+:toc:
+:icons: font
+:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+이 페이지는 NHNAcademy광주 4기 자바 Back-End과정중 CIA팀의 팀 페이지입니다.
+
+
+== CIA의 의미?
+
+Code is Alive.
+
+image::Integration.png[Me,50%,50%,align="center"]
+
+=== 팀원 소개
+
+* 이승재 -
+* 이정범
+* 장민주
+
+=== 팀 목표
+현재 목표 : 2번 과정을 약 16일 안에 끝내고 3번과정을 보충한다.
+
+.첫 주 팀 목표 (2번 과정)
+|===
+|9월 11일 | 9월 12일 | 9월 13일 | 9월 14일 | 9월 15일 | 9월 16 - 17일
+
+|Chapter 1 Chapter 2
+|Chapter 3
+|Chapter 4
+|Chapter 5
+|Chapter 7
+|고민중
+
+
+|code review
+|code review
+|code review
+|code review
+|code review
+|고민중
+|===
