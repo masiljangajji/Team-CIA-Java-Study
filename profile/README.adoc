@@ -11,14 +11,14 @@ image::Integration.png[Me,50%,50%,align="center"]
 
 === 팀원 소개
 
-* 이승재 [masiljangajji](https://github.com/masiljangajji)
-* 이정범 https://github.com/Lee-JungBum
-* 장민주 https://github.com/minm063
+* https://github.com/masiljangajji[이승재]
+* https://github.com/Lee-JungBum[이정범]
+* https://github.com/minm063[장민주]
+
 
 
 === 팀 목표
 현재 목표 : 2번 과정을 약 16일 안에 끝내고 3번과정을 보충하여 전반적인 전산학 기초와 자바를 마스터한다.
-
 
 image::https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white[]
 
