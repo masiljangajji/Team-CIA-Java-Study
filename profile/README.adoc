@@ -2,6 +2,8 @@
 
 이 페이지는 NHNAcademy광주 4기 자바 Back-End과정중 CIA팀의 팀 페이지입니다.
 
+
+
 == CIA의 의미?
 
 Code is Alive. +
@@ -9,7 +11,22 @@ Code is Alive. +
 
 image::Integration.png[Me,50%,50%,align="center"]
 
+
+image:https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white[]
+image:https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white[]
+image:https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white[]
+image:https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white[]
+image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white[]
+
+
+
+
+
+
+
+
 === 팀원 소개
+
 
 * https://github.com/masiljangajji[이승재]
 * https://github.com/Lee-JungBum[이정범]
@@ -20,7 +37,8 @@ image::Integration.png[Me,50%,50%,align="center"]
 === 팀 목표
 현재 목표 : 2번 과정을 약 16일 안에 끝내고 3번과정을 보충하여 전반적인 전산학 기초와 자바를 마스터한다.
 
-image::https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white[]
+
+
 
 .(2번 과정) , 주차별 학습 목표는 아래와 동일.
 |===
