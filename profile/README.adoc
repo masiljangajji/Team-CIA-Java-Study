@@ -1,9 +1,6 @@
 = NHNAcademy4th-CIA
 Firstname Lastname <author@asciidoctor.org>
 3.0, July 29, 2022: AsciiDoc article template
-:toc:
-:icons: font
-:url-quickref: https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
 
 이 페이지는 NHNAcademy광주 4기 자바 Back-End과정중 CIA팀의 팀 페이지입니다.
 
