@@ -13,7 +13,7 @@ image::Integration.png[Me,50%,50%,align="center"]
 
 
 image:https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white[]
-image:https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white[]
+image:https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white[]
 image:https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white[]
 image:https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white[]
 image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white[]
@@ -35,38 +35,56 @@ image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=inte
 
 
 === 팀 목표
-현재 목표 : 2번 과정을 약 16일 안에 끝내고 3번과정을 보충하여 전반적인 전산학 기초와 자바를 마스터한다.
+현재 목표 : link:https://math.hws.edu/javanotes/[2번 과정] 을 약 16일 안에 끝내고 link:https://web.mit.edu/6.005/www/fa15/[3번 과정]을 보충하여 전반적인 전산학 기초와 자바를 마스터한다.
+
+'''
 
 
 
+=== 학습 규칙
 
+. 동료 학습을 하는 시간은 다음과 같다 09:00 - 18:00 (그 외의 시간은 Dooray를 이용)
+. 각 조원 별로 미리 해당하는 날의 Chapter를 학습한다 (개념정리 , Quiz)
+    - 각자가 학습한 내용은 Git을 이용해 관리하며 branch를 두고 후에 merge한다
+    - Commit 은 Convension을 따른다
+. 오전시간 09:00 - 11:30 은 자율적으로 공부한다
+. 오후시간 13:00 - 18:00 은 문제풀이와 Quiz 및 Code Review를 진행한다
+    -  Review는 PR을 이용해 진행하며 수정 후 닫는 것을 원칙으로 한다
+. 주말 학습은 조원끼리 토의 후 결정한다
+
+
+---
+
+=== 학습과정
 .(2번 과정) , 주차별 학습 목표는 아래와 동일.
 |===
 |9월 12일 | 9월 13일 | 9월 14일 | 9월 15일 | 9월 16 - 17일
 
-|Chapter 1 Chapter 2
-|Chapter 3
-|Chapter 4
-|Chapter 5
-|Thread
+
+
+|link:https://github.com/NHNAcademy4th-CIA/Chapter2[Chapter 1 , Chapter 2]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter3[Chapter 3]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter4[Chapter 4]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter5[Chapter 5]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter7[Chapter 7] , link:https://github.com/NHNAcademy4th-CIA/Lambda[Lambda]
 
 
 |code review
 |code review
 |code review
 |code review
-|Thread
+|
 |===
 
 
 |===
 |9월 18일 | 9월 19일 | 9월 20일 | 9월 21일 | 9월 22일 | 9월 23 - 24일
 
-|Chapter 7
 |Chapter 8
 |Chapter 9
 |Chapter 10
 |Chapter 11
+|Chapter 12
 |Socket
 |code review
 |code review
