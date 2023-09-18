@@ -54,6 +54,7 @@ image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=inte
 
 ---
 
+
 === 학습과정
 .(2번 과정) , 주차별 학습 목표는 아래와 동일.
 |===
@@ -79,7 +80,8 @@ image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=inte
 | |9월 18일 | 9월 19일 | 9월 20일 | 9월 21일 | 9월 22일 | 9월 23 - 24일
 
 |오전
-|제 1회 천하제일 CS대회
+|제 1회 천하제일 +
+CS대회
 |Chapter 8
 |Chapter 8
 |Chapter 9
@@ -87,16 +89,21 @@ image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=inte
 |과제 (미정)
 
 |오후
-|제 1회 천하제일 CS대회
+|제 1회 천하제일 +
+CS대회
 |Chapter 8
 |Chapter 8
-|code review Chapter 9
-|code review Chapter 10
+|code review +
+Chapter 9
+|code review +
+Chapter 10
 |과제 (미정)
 
 |저녁
-|code review Chapter 5,7
-|code review Chapter 8
+|code review +
+Chapter 5,7
+|code review +
+Chapter 8
 |Chapter 9 학습
 |Chapter 10 학습
 |과제 (미정)
@@ -108,15 +115,18 @@ image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=inte
 | |9월 25일 | 9월 26일 | 9월 27일 | 9월 28 - 10월 3일
 
 | 오전
-|제 2회 천하제일 CS대회
+|제 2회 천하제일 +
+CS대회
 |Chapter 11
 |Chapter 12
 |추석 과제(미정)
 
 |오후
 |과제 리뷰
-|code review Chapter 11
-|code review Chapter 12
+|code review +
+Chapter 11
+|code review +
+Chapter 12
 |추석 과제(미정)
 
 |저녁
