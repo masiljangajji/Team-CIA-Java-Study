@@ -84,8 +84,8 @@ image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=inte
 CS대회
 |link:https://github.com/NHNAcademy4th-CIA/Chapter8[Chapter 8]
 |link:https://github.com/NHNAcademy4th-CIA/Chapter8[Chapter 8]
-|Chapter 9
-|Chapter 10
+|link:https://github.com/NHNAcademy4th-CIA/Chapter9[Chapter 9]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter10[Chapter 10]
 |과제 (미정)
 
 |오후
@@ -117,8 +117,8 @@ Chapter 8
 | 오전
 |제 2회 천하제일 +
 CS대회
-|Chapter 11
-|Chapter 12
+|link:https://github.com/NHNAcademy4th-CIA/Chapter11[Chapter 11]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter12[Chapter 12]
 |추석 과제(미정)
 
 |오후
