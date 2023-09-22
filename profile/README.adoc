@@ -82,58 +82,66 @@ image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=inte
 |오전
 |제 1회 천하제일 +
 CS대회
+| code review +
+Chapter 5,7
 |link:https://github.com/NHNAcademy4th-CIA/Chapter8[Chapter 8]
 |link:https://github.com/NHNAcademy4th-CIA/Chapter8[Chapter 8]
 |link:https://github.com/NHNAcademy4th-CIA/Chapter9[Chapter 9]
 |link:https://github.com/NHNAcademy4th-CIA/Chapter10[Chapter 10]
-|과제 (미정)
 
 |오후
 |제 1회 천하제일 +
 CS대회
+| code review +
+Chapter 5,7
 |link:https://github.com/NHNAcademy4th-CIA/Chapter8[Chapter 8]
-|link:https://github.com/NHNAcademy4th-CIA/Chapter8[Chapter 8]
+|code review +
+Chapter 8
 |code review +
 Chapter 9
 |code review +
 Chapter 10
-|과제 (미정)
 
 |저녁
-|code review +
+|CS 지식 정리
+| code review +
 Chapter 5,7
-|code review +
-Chapter 8
-|Chapter 9 학습
-|Chapter 10 학습
-|과제 (미정)
-|과제 (미정)
+|link:https://github.com/NHNAcademy4th-CIA/Chapter8[Chapter 8]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter9[Chapter 9]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter10[Chapter 10]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter11[Chapter 11]
 
 |===
 
+
+
+
+
+
+
 |===
-| |9월 25일 | 9월 26일 | 9월 27일 | 9월 28 - 10월 3일
+| |9월 25일 | 9월 26일 | 9월 27일
 
 | 오전
 |제 2회 천하제일 +
 CS대회
 |link:https://github.com/NHNAcademy4th-CIA/Chapter11[Chapter 11]
 |link:https://github.com/NHNAcademy4th-CIA/Chapter12[Chapter 12]
-|추석 과제(미정)
+
 
 |오후
-|과제 리뷰
+|제 2회 천하제일 +
+CS대회
 |code review +
 Chapter 11
-|code review +
-Chapter 12
-|추석 과제(미정)
+|link:https://github.com/NHNAcademy4th-CIA/Chapter12[Chapter 12]
+
 
 |저녁
-|Chapter 11 학습
-|Chapter 12 학습
-|추석 과제(미정)
-|추석 과제(미정)
+|link:https://github.com/NHNAcademy4th-CIA/Chapter11[Chapter 11]
+|link:https://github.com/NHNAcademy4th-CIA/Chapter12[Chapter 12]
+|code review +
+Chapter 12
 
 |===
 
