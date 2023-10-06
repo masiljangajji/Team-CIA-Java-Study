@@ -120,13 +120,15 @@ Chapter 5,7
 
 
 |===
-| |9월 25일 | 9월 26일 | 9월 27일
+| |9월 25일 | 9월 26일 | 9월 27일 | 추석 연휴
 
 | 오전
 |제 2회 천하제일 +
 CS대회
 |link:https://github.com/NHNAcademy4th-CIA/Chapter11[Chapter 11]
 |link:https://github.com/NHNAcademy4th-CIA/Chapter12[Chapter 12]
+|link:https://github.com/masiljangajji/NHN-StarCraft.git[ NHN - StarCraft +
+이승재 ]
 
 
 |오후
@@ -135,14 +137,44 @@ CS대회
 |code review +
 Chapter 11
 |link:https://github.com/NHNAcademy4th-CIA/Chapter12[Chapter 12]
-
+|link:https://github.com/Lee-JungBum/NHNAcademy_StarCraft[ NHN - StarCraft +
+이정범 ]
 
 |저녁
 |link:https://github.com/NHNAcademy4th-CIA/Chapter11[Chapter 11]
 |link:https://github.com/NHNAcademy4th-CIA/Chapter12[Chapter 12]
 |code review +
 Chapter 12
+|link:https://github.com/minm063/nhn-star.git[ NHN - StarCraft +
+장민주 ]
 
 |===
 
+
+
+|===
+| |10월 4일|10월 5일 | 10월 6 - 8일
+
+|오전
+|NHN - StarCraft Review
+|제 3회 천하제일 +
+CS대회
+|Iterator , Stream   +
+Monte-Carlo Simulation
+
+
+|오후
+|NHN - StarCraft Review
+|제 3회 천하제일 +
+CS대회
+| Iterator , Stream   +
+Monte-Carlo Simulation
+
+|저녁
+|개인 공부
+|개인 공부
+| Iterator , Stream   +
+Monte-Carlo Simulation
+
+|===
 
