@@ -178,3 +178,33 @@ Monte-Carlo Simulation
 
 |===
 
+
+|===
+| |10월 10일|10월 11일 | 10월 12일| 10월 13일| 주말
+
+|오전
+|시험
+|NHN - StarCraft Refactor , review
+|DB 수업
+|
+|
+
+|오후
+|시험
+|NHN - StarCraft Refactor , review
+|DB 수업
+|
+|
+
+|저녁
+|시험
+|Thread
+|DB 수업
+|
+|
+
+|===
+
+
+
+
