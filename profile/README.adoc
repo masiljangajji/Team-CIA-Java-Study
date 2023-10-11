@@ -186,14 +186,14 @@ Monte-Carlo Simulation
 |시험
 |NHN - StarCraft Refactor , review
 |DB 수업
-|
+|Thread
 |
 
 |오후
 |시험
 |NHN - StarCraft Refactor , review
 |DB 수업
-|
+|Thread
 |
 
 |저녁
