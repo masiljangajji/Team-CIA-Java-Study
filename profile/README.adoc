@@ -200,7 +200,7 @@ Monte-Carlo Simulation
 
 |저녁
 |시험
-|Thread
+|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Thread]
 |DB 수업
 |code Review + 
 Thread
