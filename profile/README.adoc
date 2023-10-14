@@ -186,22 +186,26 @@ Monte-Carlo Simulation
 |시험
 |NHN - StarCraft Refactor , review
 |DB 수업
-|Thread
-|
+|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Thread]
+|Socket
+
+
 
 |오후
 |시험
 |NHN - StarCraft Refactor , review
 |DB 수업
-|Thread
-|
+|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Thread]
+|Socket
 
 |저녁
 |시험
 |Thread
 |DB 수업
-|
-|
+|code Review + 
+Thread
+|code review + 
+Socket
 
 |===
 
