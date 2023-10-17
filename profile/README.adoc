@@ -186,7 +186,8 @@ Monte-Carlo Simulation
 |시험
 |NHN - StarCraft +
 Refactor , review
-|Database Essentials: Core Concepts
+|Database Essentials: +
+Core Concepts
 |link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
 Programming]
 |code review +
@@ -198,7 +199,8 @@ Concurrent Programming
 |시험
 |NHN - StarCraft +
 Refactor , review
-|Database Essentials: Core Concepts
+|Database Essentials: +
+Core Concepts
 
 |link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
 Programming]
@@ -210,7 +212,8 @@ Concurrent Programming
 |시험
 |link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
 Programming]
-|Database Essentials: Core Concepts
+|Database Essentials: +
+Core Concepts
 
 |link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
 Programming]
@@ -231,7 +234,8 @@ Programming]
 |link:https://github.com/NHNAcademy4th-CIA/Network[Network +
 Programming]
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
-|Database Essentials: Core Concepts
+|Database Essentials: +
+Core Concepts
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 
@@ -244,7 +248,8 @@ Programming]
 |code review +
 Network Programming
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
-|Database Essentials: Core Concepts
+|Database Essentials: +
+Core Concepts
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 
@@ -255,7 +260,8 @@ Programming]
 |code review +
 Network Programming
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
-|Database Essentials: Core Concepts
+|Database Essentials: +
+Core Concepts
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 
