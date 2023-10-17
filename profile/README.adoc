@@ -184,7 +184,8 @@ Monte-Carlo Simulation
 
 |오전
 |시험
-|NHN - StarCraft Refactor , review
+|NHN - StarCraft +
+Refactor , review
 |Database Essentials: Core Concepts
 |link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
 Programming]
@@ -195,7 +196,8 @@ Concurrent Programming
 
 |오후
 |시험
-|NHN - StarCraft Refactor , review
+|NHN - StarCraft +
+Refactor , review
 |Database Essentials: Core Concepts
 
 |link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
