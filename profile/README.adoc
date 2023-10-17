@@ -185,30 +185,80 @@ Monte-Carlo Simulation
 |오전
 |시험
 |NHN - StarCraft Refactor , review
-|DB 수업
-|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Thread]
-|Socket
+|Database Essentials: Core Concepts
+|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
+Programming]
+|code review +
+Concurrent Programming
 
 
 
 |오후
 |시험
 |NHN - StarCraft Refactor , review
-|DB 수업
-|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Thread]
-|Socket
+|Database Essentials: Core Concepts
+
+|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
+Programming]
+|code review +
+Concurrent Programming
+
 
 |저녁
 |시험
-|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Thread]
-|DB 수업
-|code Review + 
-Thread
-|code review + 
-Socket
+|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
+Programming]
+|Database Essentials: Core Concepts
+
+|link:https://github.com/NHNAcademy4th-CIA/ThreadChapter[Concurrent +
+Programming]
+|link:https://github.com/NHNAcademy4th-CIA/Network[Network +
+Programming]
+
 
 |===
 
 
+
+|===
+| |10월 16일|10월 17일 | 10월 18일| 10월 19일| 10월 20일 | 주말
+
+|오전
+|link:https://github.com/NHNAcademy4th-CIA/Network[Network +
+Programming]
+|link:https://github.com/NHNAcademy4th-CIA/Network[Network +
+Programming]
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|Database Essentials: Core Concepts
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+
+
+
+
+|오후
+|link:https://github.com/NHNAcademy4th-CIA/Network[Network +
+Programming]
+|code review +
+Network Programming
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|Database Essentials: Core Concepts
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+
+
+|저녁
+|link:https://github.com/NHNAcademy4th-CIA/Network[Network +
+Programming]
+|code review +
+Network Programming
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|Database Essentials: Core Concepts
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+
+
+
+|===
 
 
