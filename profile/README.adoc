@@ -235,7 +235,8 @@ Programming]
 Programming]
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |Database Essentials: +
-Core Concepts
+Core +
+Concepts
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 
@@ -249,7 +250,8 @@ Programming]
 Network Programming
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |Database Essentials: +
-Core Concepts
+Core +
+Concepts
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 
@@ -261,7 +263,8 @@ Programming]
 Network Programming
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |Database Essentials: +
-Core Concepts
+Core +
+Concepts
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 |link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
 
