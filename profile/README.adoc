@@ -233,11 +233,11 @@ Programming]
 Programming]
 |link:https://github.com/NHNAcademy4th-CIA/Network[Network +
 Programming]
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
 |Database Essentials: +
 Core Concepts
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
 
 
 
@@ -247,11 +247,11 @@ Core Concepts
 Programming]
 |code review +
 Network Programming
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
 |Database Essentials: +
 Core Concepts
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
 
 
 |저녁
@@ -259,11 +259,11 @@ Core Concepts
 Programming]
 |code review +
 Network Programming
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
 |Database Essentials: +
 Core Concepts
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
-|link:https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
+|link:https://github.com/NHNAcademy4th-CIA/MIT-Open-Course-6.005[MIT Open Course 6.005]
 
 
 
