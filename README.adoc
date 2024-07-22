@@ -45,7 +45,7 @@ image:https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=inte
 . 동료 학습을 하는 시간은 다음과 같다 09:00 - 18:00 (그 외의 시간은 Dooray를 이용)
 . 각 조원 별로 미리 해당하는 날의 Chapter를 학습한다 (개념정리 , Quiz)
     - 각자가 학습한 내용은 Git을 이용해 관리하며 branch를 두고 후에 merge한다
-    - Commit 은 Convension을 따른다
+    - Commit 은 convention을 따른다
 . 오전시간 09:00 - 11:30 은 자율적으로 공부한다
 . 오후시간 13:00 - 18:00 은 문제풀이와 Quiz 및 Code Review를 진행한다
     -  Review는 PR을 이용해 진행하며 수정 후 닫는 것을 원칙으로 한다
