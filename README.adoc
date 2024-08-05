@@ -259,8 +259,6 @@ Core Concepts
 Programming]
 |code review +
 Network Programming
-|Database Essentials: +
-Core Concepts
 |MIT Open Course 6.005
 |Database Essentials: +
 Core Concepts
