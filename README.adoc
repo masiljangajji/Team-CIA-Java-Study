@@ -268,7 +268,7 @@ Core Concepts
 |===
 
 |===
-| 본 과정 Project       | Repository Link
+| 본 과정 Mini Project       | Repository Link
 
 | Poker         | https://github.com/masiljangajji/NHN-Poker[link]
 | Mart          | https://github.com/masiljangajji/NHN-Mart[link]
